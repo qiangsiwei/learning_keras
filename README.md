@@ -1,0 +1,1 @@
+This a simple code to do word embedding (skipgrams) with keras 0.2.0 and chinese documents.
